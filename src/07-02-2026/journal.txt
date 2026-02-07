@@ -1,0 +1,3 @@
+Name: Soma, Daily Goal: walking
+Name: Soma, Daily Goal: learning basic of ml
+Name: Soma, Daily Goal: practicing ml
